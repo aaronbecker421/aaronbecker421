@@ -1,4 +1,13 @@
-## Hi there 👋
+# Aaron Becker
+
+## What I am working on
+During the day, I work at Data Search as member of the executive team in charge of project management for clients and vendors mainly focused on their data integration for order processing.  
+
+## What I am currently learning
+Right now I am learning how to use github. I've used it sparingly in the past but decided to go back to the beginning and get a good baseline to my understanding.
+
+## How to reach me:
+LinkedIn: <a href="https://www.linkedin.com/in/aaron-becker">Aaron Becker</a>
 
 <!--
 **aaronbecker421/aaronbecker421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
